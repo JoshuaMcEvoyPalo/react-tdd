@@ -1,5 +1,5 @@
 const LoginContainer = () => {
-  return <div>Login Container</div>
+  return <h1>Login Container</h1>
 }
 
 export default LoginContainer

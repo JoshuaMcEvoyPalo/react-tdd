@@ -1,3 +1,3 @@
-# React TDD / Storybook - Demo
+# React TDD - Demo
 
-This project is to unity TDD/Storybook with React to create a login UI. 
+This project is to unity TDD with React to create a login UI. 
